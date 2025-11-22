@@ -103,4 +103,4 @@ TW_INCLUDE_FBE := false             # Disable this (Your fstab uses forceencrypt
 # Filesystem Support
 BOARD_USERDATAIMAGE_FILE_SYSTEM_TYPE := f2fs
 
-OF_MAINTAINER := "SJ"
+OF_MAINTAINER := SJ
